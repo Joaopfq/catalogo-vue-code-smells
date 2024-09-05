@@ -26,9 +26,7 @@
 | Too Many Props                                                    | Passar muitas props para um unico component                                                      |
 | JSX outside the render method                                     | Implemenação de markup em multiplos métodos                                                      |
 | Uncontrolled Components<br>                                       | A component that does not use props/state to handle form's data                                  |
-| Enum Implicit Values                                              |  Usando enums sem definir valores explicitos para eles                                           |
-| Multiple Booleans for State                                       |                                                                                                  |
-| Definindo muitos boolean para definir um estado de um componente" |                                                                                                  |
+| Enum Implicit Values                                              | Usando enums sem definir valores explicitos para eles                                            |
 | Lack of type predicates                                           | Falta do uso de predicados de tipo.                                                              |
 | Ref instead of reactive for complex objects                       | Uso do ref para objetos                                                                          |
 | Direct state manipulation                                         | Alterar o estado diretamente sem o uso de funções                                                |
