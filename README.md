@@ -1,4 +1,4 @@
-#Catalogo de candidatos a code smells do Vue com TypeScript
+# Catalogo de candidatos a code smells do Vue com TypeScript
 
 | Code smells                                                       | Descrição                                                                                        |
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
